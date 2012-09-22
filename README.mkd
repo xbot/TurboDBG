@@ -1,0 +1,35 @@
+TurboDBG
+===========
+
+**TurboDBG** is an extension for Google Chrome Browser. It's intended to make life easier for debugging and profiling TurboCRM.
+
+Features
+--------
+
+* Developers can do debugging or profiling stuff in a production environment and only information related with actions made by them is logged.
+* All threshholds can be customized on the fly, so no restarts are needed.
+* Toggle whether to log SQL query statements which exceed a specified threshhold.
+* Toggle whether to log SQL DML statements which exceed a specified threshhold.
+* Toggle whether to log SQL callstacks for those which exceed threshhold.
+* Toggle whether to log flow controls which exceed a specified threshhold.
+* Toggle whether to log flow nodes which exceed a specified threshhold.
+* Toggle whether to log flow callstacks for those which exceed threshhold.
+* Toggle whether to log php requests.
+
+Links
+-----
+
+* Project:      https://github.com/xbot/TurboDBG
+
+FAQ
+---
+
+* **--**
+  * --
+
+Change Log
+----------
+
+**version 1.0.0 (2012-09-22 Saturday 15:13:20)**
+
+* Initial release.
